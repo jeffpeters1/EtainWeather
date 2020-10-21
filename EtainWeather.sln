@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtainWeather.WEB", "EtainWeather.WEB\EtainWeather.WEB.csproj", "{8ABC3BE3-59EE-4EAA-9558-23FF7FC70B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtainWeather.CORE", "EtainWeather.CORE\EtainWeather.CORE.csproj", "{44635D2D-EACB-4776-BBF5-F4AEF4EAF806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ABC3BE3-59EE-4EAA-9558-23FF7FC70B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABC3BE3-59EE-4EAA-9558-23FF7FC70B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ABC3BE3-59EE-4EAA-9558-23FF7FC70B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ABC3BE3-59EE-4EAA-9558-23FF7FC70B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44635D2D-EACB-4776-BBF5-F4AEF4EAF806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44635D2D-EACB-4776-BBF5-F4AEF4EAF806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44635D2D-EACB-4776-BBF5-F4AEF4EAF806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44635D2D-EACB-4776-BBF5-F4AEF4EAF806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D58100B9-EC65-41A8-BB60-553006CDDF9C}
+	EndGlobalSection
+EndGlobal
